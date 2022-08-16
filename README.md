@@ -1,1 +1,2 @@
-# login-form-with-regex-in-php
+# Login Form with Regex in PHP
+Menampilkan basic login, registrasi, ubah password, dan logout form pada bahasa pemrogramam PHP.
