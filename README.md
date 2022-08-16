@@ -21,5 +21,5 @@ Menampilkan basic login, registrasi, ubah password, dan logout form pada bahasa 
 - Buka folder xampp di komputer masing-masing dan mengarah ke folder htdocs lalu membuat folder baru. Contoh: C:\xampp\htdocs\regex
 - Pindahkan semua file yang sudah diekstrak ke dalam folder tersebut
 - Buka aplikasi xampp > start/jalankan module apache dan MySQL 
-- Buka browser > masuk ke halaman phpmyadmin 'https://localhost/phpmyadmin' > buat database baru dengan nama 'regex_db' > masuk ke database 'regex_db' dan ke menu import > masukkan file yang bernama 'regex_db.sql' > Go
-- Masuk ke halaman 'https://localhost/regex/' untuk menjalankannya > selesai
+- Buka browser > masuk ke halaman phpmyadmin 'http://localhost/phpmyadmin' > buat database baru dengan nama 'regex_db' > masuk ke database 'regex_db' dan ke menu import > masukkan file yang bernama 'regex_db.sql' > Go
+- Masuk ke halaman 'http://localhost/regex/' untuk menjalankannya > selesai
