@@ -32,8 +32,8 @@ Displays basic login, registration, change password, and logout forms in the PHP
 - Open a browser > go to the phpmyadmin page 'http://localhost/phpmyadmin' > create a new database with the name 'regex_db' > enter the database 'regex_db' and go to the import menu > insert a file called 'regex_db.sql' > Go
 - Go to 'http://localhost/your new folder/' page to run it
 
-######## Disclaimer: I use Bahasa in the code examples
-
+#
+(!) Disclaimer: I use Bahasa in the code examples
 #
 #
 
