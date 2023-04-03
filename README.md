@@ -26,11 +26,11 @@ Displays basic login, registration, change password, and logout forms in the PHP
 - Clone or download this repository
 - Unzip the downloaded folder if the folder is compressed
 - Download and install the xampp application
-- Open the xampp folder on each computer and navigate to the htdocs folder then create a new folder. Example: C:\xampp\htdocs\your new folder
+- Open the xampp folder on each computer and navigate to the htdocs folder then create a new folder. Example: C:\xampp\htdocs\your_new_folder
 - Move all extracted files into that folder
 - Open the xampp application > start/run the Apache and MySQL modules
 - Open a browser > go to the phpmyadmin page 'http://localhost/phpmyadmin' > create a new database with the name 'regex_db' > enter the database 'regex_db' and go to the import menu > insert a file called 'regex_db.sql' > Go
-- Go to 'http://localhost/your new folder/' page to run it
+- Go to 'http://localhost/your_new_folder/' page to run it
 
 #
 (!) Disclaimer: I use Bahasa in the code examples
